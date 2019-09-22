@@ -1,6 +1,4 @@
 pragma solidity ^0.4.17;
-// We have to specify what version of compiler this code will compile with
-
 contract Customer {
 
   /* Events */
